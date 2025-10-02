@@ -1,4 +1,4 @@
-package com.hraj9258.celebrareassignment.domain
+package com.hraj9258.celebrareassignment.texteditor.domain
 
 import androidx.compose.ui.text.font.FontFamily
 

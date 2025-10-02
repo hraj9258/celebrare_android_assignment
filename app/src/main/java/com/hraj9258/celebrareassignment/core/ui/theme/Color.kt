@@ -1,4 +1,4 @@
-package com.hraj9258.celebrareassignment.ui.theme
+package com.hraj9258.celebrareassignment.core.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

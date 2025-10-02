@@ -1,6 +1,5 @@
-package com.hraj9258.celebrareassignment.ui.theme
+package com.hraj9258.celebrareassignment.core.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
